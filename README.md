@@ -3,7 +3,7 @@
 Simple Donut App UI
 
 
-![image](https://user-images.githubusercontent.com/114337820/209456650-88f15a70-9535-48ca-9a06-da6a88d4333f.png)
+<img width="194" alt="image" src="https://user-images.githubusercontent.com/114337820/210040626-52cfff2d-283a-4ef3-b1ec-94f42ebbec5d.png">
 
 
 
